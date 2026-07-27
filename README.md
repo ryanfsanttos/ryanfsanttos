@@ -16,7 +16,7 @@ Também conhecido como <strong>Santtos</strong>.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira como Desenvolvedor Back-end. 
 
-Tenho como objetivo atuar no desenvolvimento de soluções escaláveis utilizando Java e o ecossistema Spring, evoluindo continuamente por meio de projetos práticos e aprendizado constante. Meu sonho é fazer parte da equipe de tecnologia do Itaú e contribuir para o desenvolvimento de soluções que impactem milhões de pessoas.
+Tenho como objetivo atuar no desenvolvimento de soluções escaláveis utilizando Java e o ecossistema Spring, evoluindo continuamente por meio de projetos práticos e aprendizado constante. Meu sonho é fazer parte da equipe de tecnologia de bancos nacionais e internacionais e contribuir para o desenvolvimento de soluções que impactem milhões de pessoas.
 
 ---
 
