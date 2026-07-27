@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou Ryan Santos! 👋</h1>
 
 <p align="center">
+Também conhecido como <strong>Santtos</strong>.
+</p>
+
+<p align="center">
   💻 Desenvolvedor Back-end em formação <br>
   🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
   ☕ Apaixonado por Java e pelo ecossistema Spring
