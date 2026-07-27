@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ryan Santos! 👋</h1>
+<h1 align="center">Olá, eu sou Ryan Santos! 👋</h1>
 
 <p align="center">
   💻 Desenvolvedor Back-end em formação <br>
