@@ -57,7 +57,7 @@ Tenho como objetivo atuar no desenvolvimento de soluções escaláveis utilizand
 
 ## 📂 Projetos em destaque
 
--  Segurança Digital
+-  Quiz - Segurança Digital
 -  Calculadora em Java
 
 Em breve novos projetos:
