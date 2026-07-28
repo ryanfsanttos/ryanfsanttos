@@ -62,7 +62,7 @@ Tenho como objetivo atuar no desenvolvimento de soluções escaláveis utilizand
 
 Em breve novos projetos:
 
-- 📚 Sistema de Biblioteca
+- 🚗 Sistema de Concessionárioa
 - 🛒 Sistema de Estoque
 - 🏦 Sistema Bancário
 - 🌐 API REST com Spring Boot
