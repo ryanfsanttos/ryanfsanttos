@@ -14,59 +14,31 @@ Também conhecido como <strong>Santtos</strong>.
 
 ## 🚀 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira como Desenvolvedor Back-end. 
-
-Tenho como objetivo atuar no desenvolvimento de soluções escaláveis utilizando Java e o ecossistema Spring, evoluindo continuamente por meio de projetos práticos e aprendizado constante. Meu sonho é fazer parte da equipe de tecnologia de bancos nacionais e internacionais e contribuir para o desenvolvimento de soluções que impactem milhões de pessoas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira como **Desenvolvedor Full-Stack**. Atualmente, estou desenvolvendo conhecimento em **Java, JavaScript, Python, HTML, CSS e SQL**, tentando entender corretamente tanto o **Front-End** quanto o **Back-End** e a integração de banco de dados. Meu objetivo é obter uma compreensão completa do desenvolvimento de software por meio de projetos práticos e aprendizado constante e, então, me especializar em **Desenvolvimento de back-end**, com foco em **Java e no ecossistema Spring**. No futuro quero fazer parte das equipas tecnológicas de grandes empresas e instituições financeiras e contribuir para o desenvolvimento de soluções escaláveis que afetem milhões de pessoas.
 
 ---
 
 ## 📚 Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,spring,python,postgres,git,github,html,css" />
 </p>
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🗄️ SQL
-- 🐘 PostgreSQL
-- 🔀 Git & GitHub
-- 💡 Programação Orientada a Objetos (POO)
-- 🌐 APIs REST
-
----
-
-## 🛠️ Tecnologias
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,idea,vscode" />
-</p>
 
 ---
 
 ## 🎯 Objetivos
 
-- ✅ Aprimorar meus conhecimentos em Java
-- 🌱 Desenvolver aplicações com Spring Boot
-- 🐘 Dominar PostgreSQL
-- 🔗 Construir APIs REST
-- 📂 Desenvolver projetos completos para meu portfólio
-- 💼 Conquistar minha primeira oportunidade como Desenvolvedor Java
-
----
-
-## 📂 Projetos em destaque
-
--  Quiz - Segurança Digital
--  Calculadora em Java
-
-Em breve novos projetos:
-
-- 🚗 Sistema de Concessionária
-- 🛒 Sistema de Estoque
-- 🏦 Sistema Bancário
-- 🌐 API REST com Spring Boot
-- 📖 CRUD completo com PostgreSQL
+* 🌐 Desenvolver uma base sólida como **Desenvolvedor Full-Stack**
+* ☕ Aprimorar meus conhecimentos em **Java**
+* 🟨 Desenvolver aplicações e interfaces utilizando **JavaScript**
+* 🐍 Expandir meus conhecimentos em **Python**
+* 🎨 Criar interfaces web com **HTML e CSS**
+* 🗄️ Aprimorar meus conhecimentos em **SQL e bancos de dados**
+* 🔗 Desenvolver aplicações integrando **Front-End, Back-End e Banco de Dados**
+* 📂 Construir projetos completos para meu **portfólio**
+* 💼 Conquistar minha primeira oportunidade como **Desenvolvedor Full-Stack**
+* 🚀 Posteriormente, me especializar em **Desenvolvimento Back-End**
 
 ---
 
